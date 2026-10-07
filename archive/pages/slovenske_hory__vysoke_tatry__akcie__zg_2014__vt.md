@@ -16,11 +16,11 @@ Je tiché mrazivé, jasné ráno, Sliezsky zamknutý, my vyrážame hore Velicko
 
 Tentokrát klubovú vlajku pozdvihol trojlístok Horár, Predseda a ja
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/zg_2014/1s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/zg_2014/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/zg_2014/2s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/zg_2014/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/zg_2014/3s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/zg_2014/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/zg_2014/4s.jpg)
 

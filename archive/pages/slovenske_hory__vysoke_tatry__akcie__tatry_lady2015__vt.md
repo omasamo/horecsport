@@ -22,11 +22,11 @@ Ranní počasí by uspokojilo spíše vášnivého mykologa. Obleva namísto sli
 
 V
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/tatry_lady2015/1s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/tatry_lady2015/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/tatry_lady2015/2s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/tatry_lady2015/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/tatry_lady2015/3s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/tatry_lady2015/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/tatry_lady2015/4s.jpg)
 

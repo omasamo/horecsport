@@ -28,13 +28,13 @@ Pripájame zopár obrázkov, ale aj tak pocity a prežité udalosti sa žiadnymi
 
 Účastníci zájazdu: Lenka, Peťo, Cuco, Katka Lenka.
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/guatemala/g2.jpg)
+![](../images/site/guatemala/g2.jpg)
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/guatemala/g1.jpg)
+![](../images/site/guatemala/g1.jpg)
 
 Antigua. Sem smerovali naše prvé kroky hneď po prílete a adrenalínovom prevoze z letiska. Mesto je zapísané medzi kultúrnymi pamiatkami UNESCO, plné ruín kostolov a zachovalej barokovej architektúry, leží na úpätí rovnomennej sopky. V okolí sa nachádzajú ďalšie sopky ako Agua, Fuego, Acatenango a Pacaya.
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/guatemala/1s.jpg)
+![Highslide JS](../images/site/guatemala/1s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/guatemala/2s.jpg)
 

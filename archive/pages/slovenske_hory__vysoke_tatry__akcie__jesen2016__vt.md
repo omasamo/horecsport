@@ -10,11 +10,11 @@ No tak ako by som začal, ani neviem, hádam len to, že moc sme sa teda nepredv
 
 Najprv by som však spomenul v krátkosti náš spoločný výlet mimo poradia. Bol to pre nás dôležitý výlet. Náš už takmer bývalý aktívny člen Luboško oslávil životné jubileum- okruhliny. Keďže nikto z nás okrem predsedu nie je nejako moc spoločensky založený oslavovací typ, tak sme sa rozhodli osláviť to tak po svojom, čiže nie na rodinnej oslave, ale pekne v uzavretom kruhu na aký sme zvyknutí, t.z. naša stará klubová partia v lone prírody – v Tatrách J. Čiže oslávenec Lubenko+predsedníctvo. Takže na víkendový výlet sme sa vybrali spolu, reku stráviť nejakú tu spoločnú chvílu, pokecať o všetkom možnom, pripiť si na Lubové zdravie no a popri tom sa aj prejsť trošku. Všetko sa nám z toho podarilo, našu štvoricu počas víkendu vždy nejako vhodne doplnila nejaká postavička mihotajúca sa naším víkendovým životom... Užili sme docela srandy, začalo to už ráno keď sme čakali pred Sliezkym, kým ho otvoria, aby sme si mohli dať pivečko skôr ako vyrazíme na túru. Ano výšlap to bol pekný – Gipsyho feratkou na Gerlach až po nočnú jazdu električkou z Hágov cestou do BC, haaa keď si spomeniem ako nás predseda učil v elektrike pískať ešte teraz. sa smejem. Tých vtipných situácíí bolo za celý deň strašne moc, popisovať to by bolo stááášne na dlho, ale víkend takto strávený bola naozaj fajná oslava narodenín. Šme še pobavili, každý kto bol vie svoje, pamätá si a sú proste veci, ktoré sa zo šatne nevynášajú J
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/jesen2016/1s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/jesen2016/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/jesen2016/2s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/jesen2016/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/jesen2016/3s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/jesen2016/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/jesen2016/4s.jpg)
 

@@ -10,11 +10,11 @@
 
 Uterý ráno, k snídani připravuji míchaná vajčka, čaj do termosek a kávu.Vyrážime na vlak do Starého Smokovce, od tud pokračujem busem do Lysé Polany. Výhodou je, že nikdo z nás neřídí, proto dáme pivko. Sladký Bažant, uff. V Lysé Polaně se zastavujem při ubytovně, kde si doplnujeme břicha pivem. Odtud jdeme přes most na polskou stranu, po silnici až k bráně do narodního parku-malá formalita v podobě vstupneho. Auta a konské povozy odtud vozí turisty k jednomu z nejnavštěvovanějších míst v Tatrách, k plesu Mořské Oko.My musíme po svých. Po necelé hodině přichazime na rozcestí, dál po silnici je to k Mořskému oku a doprava po kameném chodniku je to na chatu kam míříme my. Chata - schronisko se nachází v Dolině Pieciu Stawow Polskich. Tam dorážíme po 4hodinách pěkným lesním terénem v doline Roztoki. Posledím a nejnáročnejším úsekem je zladovatelý traverz pri vodopáde na hranu jezer. Při pohledu do údolí za nám a štíty, které nás obklopují, sem si jistej, že sem v ráji.Odpočíváme na kameni při jezeře.Fotíme vrcholící západ slunce.Po malém oddychu nám zbýva jen dorazit na chatu. Chata je krásná kamenná, leží přimo u jezera. Vcházíme dovnitř, po krátkém rozkoukaní platíme za dvě noci, berem klič od pokoje a odchazime se zabydlet. Večery už máme nacvičeny z jiných akci. Slivovice, mistní specialitu -pivo s malinovou štávou nezkoušíme, dáváme přednost jen pivu. Ochutnáváme lokalní jidlo Bigos, je to zelí, maso a klobása. Docela vitamínová bomba. Mapa na stole ukazuje několik možností, jak si užit přisti den. Jde se spát.
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/orlia_prt/1s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/orlia_prt/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/orlia_prt/2s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/orlia_prt/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/orlia_prt/3s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/orlia_prt/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/orlia_prt/4s.jpg)
 

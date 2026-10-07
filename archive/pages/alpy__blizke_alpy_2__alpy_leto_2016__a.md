@@ -20,11 +20,11 @@ Na vrchu Pfaffensteinu sme o šiestej podvečer a samozrejme ako poslední. Ešt
 
 Už sa stmieva, keď sadáme do auta. Pre pokročilý čas sa plánovaný odvoz Ivana na najbližšiu vlakovú stanicu odkladá. ( v utorok má byť totiž v robote ). Čaká nás hľadanie nocľažiska. Horár oprašuje spomienky z minula a v podstate s prehľadom nachádza naše ležovisko na zjazdovke. Kým s Ivanom, naťahujeme plachtu proti ranej rose, Horár kuchtí špičkové lečo zo svojich pestovateľských prebytkov.
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/blizke_alpy_2/alpy_leto_2016/1s.jpg)
+![Highslide JS](../images/site/alpy/blizke_alpy_2/alpy_leto_2016/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/blizke_alpy_2/alpy_leto_2016/2s.jpg)
+![Highslide JS](../images/site/alpy/blizke_alpy_2/alpy_leto_2016/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/blizke_alpy_2/alpy_leto_2016/3s.jpg)
+![Highslide JS](../images/site/alpy/blizke_alpy_2/alpy_leto_2016/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/blizke_alpy_2/alpy_leto_2016/4s.jpg)
 

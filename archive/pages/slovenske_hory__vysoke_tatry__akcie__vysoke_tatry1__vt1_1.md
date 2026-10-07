@@ -14,8 +14,8 @@ Tretí deň sa Ivanova noha nelepší, tak je z toho nakoniec lyžovačka v Lomn
 
 Perfektný víkend a nebyť zabudnutého lana mohlo to byť este o čosi lepšie.
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/vysoke_tatry1/vtz1.jpg)
+![](../images/site/slovenske_hory/vysoke_tatry/akcie/vysoke_tatry1/vtz1.jpg)
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/vysoke_tatry1/vtz2.jpg)
+![](../images/site/slovenske_hory/vysoke_tatry/akcie/vysoke_tatry1/vtz2.jpg)
 
 [<<<<<](nove_akcie_index.md)

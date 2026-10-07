@@ -16,11 +16,11 @@ Krátky oddych, zopár fotiek a následuje celkom slušný zjazd k autu
 
 Velmi vydarený deň.
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/blizke_alpy/schneeberg/sch%20rax%20hoch%20ski%202012/1s.jpg)
+![Highslide JS](../images/site/alpy/blizke_alpy/schneeberg/sch_rax_hoch_ski_2012/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/blizke_alpy/schneeberg/sch%20rax%20hoch%20ski%202012/2s.jpg)
+![Highslide JS](../images/site/alpy/blizke_alpy/schneeberg/sch_rax_hoch_ski_2012/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/blizke_alpy/schneeberg/sch%20rax%20hoch%20ski%202012/3s.jpg)
+![Highslide JS](../images/site/alpy/blizke_alpy/schneeberg/sch_rax_hoch_ski_2012/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/blizke_alpy/schneeberg/sch%20rax%20hoch%20ski%202012/4s.jpg)
 

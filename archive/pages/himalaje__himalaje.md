@@ -6,18 +6,18 @@
 
 Himaláje
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/himalaje/baruntse.jpg)
+![](../images/site/himalaje/baruntse.jpg)
 
 [Baruntse](himalaje__baruntse__himalaje_main.md)
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/himalaje/island_peak.jpg)
+![](../images/site/himalaje/island_peak.jpg)
 
 [Island Peak](https://web.archive.org/web/2023/http://horecsport.sk/himalaje/nizke_tatry/nt_info.htm)
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/himalaje/dhaulagiri.jpg)
+![](../images/site/himalaje/dhaulagiri.jpg)
 
 [Dhaulagiri](himalaje__dhaulagiri__vt.md)
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/himalaje/kanchenjonga.jpg)
+![](../images/site/himalaje/kanchenjonga.jpg)
 
 [Kanchenjonga](himalaje__kanchenjonga__kanc.md)

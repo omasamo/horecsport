@@ -16,11 +16,11 @@ Tetoraz máme na pláne navštíviť doteraz nami nepoznanú, lezeckú oblasť R
 
 Po perfektnom dni sa všetci tešíme na príjemný a pohodový večer pri pivku a hrnci fazule. Blížiacu sa oblačnosť preto ani neberieme vážne. Navyše keď aj metroligický guru, doktor Ilko hovoril, že zrážky majú byť až nasledujúci deň. No príroda sa nielen s ním, ale aj s nami pekne zahrala. Sotva sme sa stihli rozkukať, začína pršať. V očakávaní krátkej prehánky robíme provizórny celtový prístrešok pri aute. Z provizórneho sa stáva nakoniec bohužial trvalý a večer trávime v polostoji s údenými špecialitami v jednej a pivom v druhej ruke. Dokonca aj naše nocľažisko staviame za dažda, ale takúto činnosť už máme dostatočne natrénovanú a už sme ju zvládli aj horších podmienkach. J
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/blizke_alpy_2/rote_wand_2015/1s.jpg)
+![Highslide JS](../images/site/alpy/blizke_alpy_2/rote_wand_2015/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/blizke_alpy_2/rote_wand_2015/2s.jpg)
+![Highslide JS](../images/site/alpy/blizke_alpy_2/rote_wand_2015/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/blizke_alpy_2/rote_wand_2015/3s.jpg)
+![Highslide JS](../images/site/alpy/blizke_alpy_2/rote_wand_2015/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/blizke_alpy_2/rote_wand_2015/4s.jpg)
 

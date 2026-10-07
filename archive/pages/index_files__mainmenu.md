@@ -2,7 +2,7 @@
 
 > Zdroj: http://horecsport.sk/index_files/mainmenu.htm — Wayback snapshot 20080611024842 (https://web.archive.org/web/20080611024842/http://horecsport.sk/index_files/mainmenu.htm)
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/index_files/mainmenu_files/index-slovenske_hory.jpg)
+![](../images/site/index_files/mainmenu_files/index-slovenske_hory.jpg)
 
 [Slovensko Nové](slovenske_hory__slovenske_hory.md)!!
 
@@ -78,7 +78,7 @@ Europa
 
 [Japonsko - Fuji](http://camera.city.fujiyoshida.yamanashi.jp/-wvhttp-01-/GetStillImage?p=-7&t=9&zoom=3000)
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/index_files/mainmenu_files/Index-alpy.jpg)
+![](../images/site/index_files/mainmenu_files/Index-alpy.jpg)
 
 [Alpy Fotogaléria](alpy__alpy.md)
 
@@ -86,14 +86,14 @@ Europa
 
 [Himaláje](himalaje__baruntse__himalaje_main.md) [Nové!!](himalaje__baruntse__himalaje_main.md)
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/index_files/mainmenu_files/index-kaukaz.jpg)
+![](../images/site/index_files/mainmenu_files/index-kaukaz.jpg)
 
 [Kaukaz](kaukaz__kaukaz.md) [Fotogaléria](kaukaz__kaukaz.md) +Text
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/index_files/mainmenu_files/index-mexico.jpg)
+![](../images/site/index_files/mainmenu_files/index-mexico.jpg)
 
 [México](mexico__mexico.md) [Fotogaléria](mexico__mexico.md) [+Text](mexico__mexico.md)
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/index_files/mainmenu_files/index-rumunsko.jpg)
+![](../images/site/index_files/mainmenu_files/index-rumunsko.jpg)
 
 [Rumunsko](rumunsko__retezat__0.md) [Fotogaléria](rumunsko__retezat__0.md) +Text

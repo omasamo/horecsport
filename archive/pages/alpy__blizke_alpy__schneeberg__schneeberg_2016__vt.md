@@ -14,11 +14,11 @@ Cesta začína pri veľkom hoff-e s lokálnou pílou, pri ktorej vždy ochkám, 
 
 Máme za sebou skvelý deň aj keď očakávania boli úplne iné. Ale batoh je zvesený.
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/blizke_alpy/schneeberg/schneeberg_2016/1s.jpg)
+![Highslide JS](../images/site/alpy/blizke_alpy/schneeberg/schneeberg_2016/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/blizke_alpy/schneeberg/schneeberg_2016/2s.jpg)
+![Highslide JS](../images/site/alpy/blizke_alpy/schneeberg/schneeberg_2016/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/blizke_alpy/schneeberg/schneeberg_2016/3s.jpg)
+![Highslide JS](../images/site/alpy/blizke_alpy/schneeberg/schneeberg_2016/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/blizke_alpy/schneeberg/schneeberg_2016/4s.jpg)
 

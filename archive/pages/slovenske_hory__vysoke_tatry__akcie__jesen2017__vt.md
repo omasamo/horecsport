@@ -24,9 +24,9 @@ No a potom to bolo už len pekné polezeníčko v pevnej skale, užívačka v kr
 
 Aj zaslúžené pivo na popradskom šmakovalo.
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/jesen2017/1s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/jesen2017/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/jesen2017/2s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/jesen2017/2s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/jesen2017/3s.jpg)
 

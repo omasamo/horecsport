@@ -14,11 +14,11 @@ Takže na spoločnej akcíí sme boli 2x – na začiatok a na koniec leta. Na z
 
 Dva dni v Mixnitz boli parádne a štvorlístok Predseda, Horár, Fištrón a ja sme sa vracali veľmo spojojný, ale nakoľko je od vtedy už nejaká tá doba, tak si vlastne ani napamätám čo sme to liezli, viem, že prvý deň bola ráno docela zima, naliezli sme do cesty, kde sme sa prerátali a museli sme z nej zlaniť dole, lebo sme nejako vytuhli, potom sme sa však opravili v niečom ľahšom a dlhšom, na druhý deň to bola krásna cesta, kde sme si všetci naozaj z chuti zaliezli a napravili sme si šmak po sobote. Predchádzal tomu ideálny spoločenský večer...
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/leto_2014/1s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/leto_2014/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/leto_2014/2s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/leto_2014/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/leto_2014/3s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/leto_2014/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/leto_2014/4s.jpg)
 

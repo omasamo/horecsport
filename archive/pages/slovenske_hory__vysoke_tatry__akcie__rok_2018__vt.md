@@ -14,9 +14,9 @@ Zima sa začala pred Silvestrom vo Veľkej studenej doline vo vynikajúcej zosta
 
 Jááj skoro by som zabudol. Po Troch kráľoch som tasil Candáta. Tak sme išli do Šaša [http://www.tatry.nfo.sk/lady.php?lad=5:Veľká-Studená-dolina:39c](http://www.tatry.nfo.sk/lady.php?lad=5:Veľká-Studená-dolina:39c): vo výborných podmienkach, noc na Zbojníčke (sami dvaja na chate a kopec zábavy vďaka bilinkovému čaju) a na druhý deň sme chceli zaliezť v Slavkovskej kope niečo, ale nejako som sa necítil zdravotne fit, tak sme cestou preliezli len taký kúsok ľadu čo sme tam nikdy pred tým nevideli a nazvali sme ho DNA J. Celkom pekný kúsok.
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rok_2018/1s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/rok_2018/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rok_2018/2s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/rok_2018/2s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rok_2018/3s.jpg)
 

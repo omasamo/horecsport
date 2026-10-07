@@ -20,11 +20,11 @@ Podvečer nás čaká neľahká úloha, musíme si nájsť miesto kde zložíme 
 
 Ubytovanie nakoniec máme ( na našu veľkú radosť ), tak ako minule, v špičkovom miestnom ubytovacom zariadení. J
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/obere_tauern/maltatal_2012/1s.jpg)
+![Highslide JS](../images/site/alpy/obere_tauern/maltatal_2012/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/obere_tauern/maltatal_2012/2s.jpg)
+![Highslide JS](../images/site/alpy/obere_tauern/maltatal_2012/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/obere_tauern/maltatal_2012/3s.jpg)
+![Highslide JS](../images/site/alpy/obere_tauern/maltatal_2012/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/obere_tauern/maltatal_2012/4s.jpg)
 

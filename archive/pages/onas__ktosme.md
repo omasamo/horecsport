@@ -8,34 +8,34 @@ Partia kamarátov so záujmom o turistiku, horolezectvo, skialpinizmus, cyklisti
 
 a ostatné športy spojené s prírodou a všeličo iné:-)
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/onas/Lenka.JPG)
+![](../images/site/onas/Lenka.JPG)
 
 **Lenka**
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/onas/Monika.JPG)
+![](../images/site/onas/Monika.JPG)
 
 **Monika**
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/onas/Dusan.JPG)
+![](../images/site/onas/Dusan.JPG)
 
 **Dušan**
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/onas/Ivan.JPG)
+![](../images/site/onas/Ivan.JPG)
 
 **Ivan**
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/onas/Ivo.JPG)
+![](../images/site/onas/Ivo.JPG)
 
 **Ivo**
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/onas/Lubo.JPG)
+![](../images/site/onas/Lubo.JPG)
 
 **Luboš**
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/onas/Roman.JPG)
+![](../images/site/onas/Roman.JPG)
 
 **Roman**
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/onas/Miska.JPG)
+![](../images/site/onas/Miska.JPG)
 
 **Miška**

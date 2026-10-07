@@ -12,11 +12,11 @@ Noo keďže je už dosť pokročilý dátum a ja som sa konečne rozhýbal napí
 
 S istotou viem, že niekedy v druhej polovici marca sme sa neobvykle dohodli všetci 4 aktívni členovia klubu Horecsport na spoločnej akcií v Tatrách. Našu už pomaly nudnú predsednícku trojku doplnil aj člen Fištrón, zosadol zo svojho dopravného prostriedku, ktorý sa volá skateboard, naskočil plný síl a odhodlnia do vláčku a hybááj na Slovensko za nami. Za necelých tušim 10hod bol už aj v BC J. To my-predsedníctvo sme sa odviezli pohodlne autom. Večer sa okolo 23 dorútil Fištron asi so 100kg batohom a už len rozprával a rozprával a rozprával... a my sme mali po dlhom čase konečne nejaké kino. Spali sme už v lezeckých dvojkách aby sme si boli bližší J - Predseda-Horár, Fištrón a ja. A tak sme sa prepracovali do nasledujúceho rána a potom si až pamätám ako kráčame od Sliezskeho do Velickej doliny pod nastup na Ľad za Velickou próbou [http://www.tatry.nfo.sk/lady.php?lad=6:Velická-dolina:43a](http://www.tatry.nfo.sk/lady.php?lad=6:Velická-dolina:43a):. A to sú tie detaily, o ktorých som vás varoval, že si nebudem pamätať. Prisaámbohu neviem ako a o koľkej sme sa dostali na Sliezsky, ale to neni až také podstatné. Počasie bolo v to ráno ako vymaľované, ideálne na Tatranský výlet. Jasno a mrazivo. Všetci v dobrej nálade. A podľa toho to aj vypadalo celý deň. Vládla naozaj pohoda a prispela k tomu aj výborná kvalita ľadu (vlasne taká tatranská, tvrdý a krehký), čo urobilo z lezenia naozaj pasiu. Dve dĺžky v kompaktnom, kvalitnom ľade stáli za to. Do druhej som vyhnal Fištróna, nech sa trochu pretiahne, lebo to bol jeho prvý zimný výlet a chalanisko si to užíval J... najmä posledných 5-6metrov... no zvládol to s ľahkosťou jemu vlastnou. Ale bol to naozaj velice pekný ľad a múdre rozhodnutie ísť práve semkaj. Na Sliezkom už si nepamätám, ale asi sme si dali ved čo iné asi pivečko a v polotme k autu, večer varil kuchár Horár a robil aj DJ, čiže mixoval okrem vajíčok aj hudbu J
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/zima%202016%20velicka/1s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/zima_2016_velicka/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/zima%202016%20velicka/2s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/zima_2016_velicka/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/zima%202016%20velicka/3s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/zima_2016_velicka/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/zima%202016%20velicka/4s.jpg)
 

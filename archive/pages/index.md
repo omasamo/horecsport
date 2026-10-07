@@ -2,7 +2,7 @@
 
 > Zdroj: http://horecsport.sk/ — Wayback snapshot 20220812063911 (https://web.archive.org/web/20220812063911/http://horecsport.sk/)
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/index_files/index-up.gif)
+![](../images/site/index_files/index-up.gif)
 
 [Home](file:///D:/HOREC/Horec_web_last/horec_web/index.htm) | [O nás](onas__onas.md) | [Užitočné linky](links.md) | [Daň 2%](dan.md) | Kniha návštev | [Archív akcií - text+ foto](nove_akcie.md)
 
@@ -16,7 +16,7 @@ Počasie a podmienky na horách
 
 **Slovenské hory**
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/index_files/aktuality/rok_2018.jpg)
+![](../images/site/index_files/aktuality/rok_2018.jpg)
 
 **Lezecký rok 2018** pridané 14.11.2018
 
@@ -36,11 +36,11 @@ Počasie a podmienky na horách
 
 ![Predpoved pocasia:: www.meteo.sk](http://data.meteo.sk/zadarmo/free1.php?user=8848)
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/index_files/index-slovenske_hory.jpg)
+![](../images/site/index_files/index-slovenske_hory.jpg)
 
 **Alpy**
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/index_files/aktuality/jesen2017.jpg)
+![](../images/site/index_files/aktuality/jesen2017.jpg)
 
 **Jeseň 2017** pridané 18.02.2018
 
@@ -48,11 +48,11 @@ Počasie a podmienky na horách
 
 [....viacej na...](slovenske_hory__vysoke_tatry__akcie__jesen2017__vt.md)
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/index_files/index-alpy.jpg)
+![](../images/site/index_files/index-alpy.jpg)
 
 **Himaláje**
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/index_files/aktuality/kanc2016.jpg)
+![](../images/site/index_files/aktuality/kanc2016.jpg)
 
 **Kanchenjonga 2016** pridané 02.05.2017
 
@@ -62,7 +62,7 @@ Počasie a podmienky na horách
 
 **Webkamery**
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/index_files/index-himalaje.jpg)
+![](../images/site/index_files/index-himalaje.jpg)
 
 Kriváň
 
@@ -74,7 +74,7 @@ Lomnické sedlo
 
 **Kaukaz**
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/index_files/aktuality/zimne_radovanky_2017.jpg)
+![](../images/site/index_files/aktuality/zimne_radovanky_2017.jpg)
 
 **Zimné radovánky 2017** pridané 20.04.2017
 
@@ -86,7 +86,7 @@ Matterhorn
 
 Schneeberg ( A )
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/index_files/index-kaukaz.jpg)
+![](../images/site/index_files/index-kaukaz.jpg)
 
 ![Matterhorn](http://zermatt.ch/html/bergbahnen/webcams/matterhorn2.jpg)
 
@@ -94,7 +94,7 @@ Schneeberg ( A )
 
 **Mexico**
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/index_files/aktuality/jesen2016.jpg)
+![](../images/site/index_files/aktuality/jesen2016.jpg)
 
 **Slovenská jeseň 2016** pridané 08.01.2017
 
@@ -114,11 +114,11 @@ Schneeberg ( A )
 
 **0905 273736**
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/index_files/index-mexico.jpg)
+![](../images/site/index_files/index-mexico.jpg)
 
 **Rumunsko**
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/index_files/aktuality/alpy_leto_2016.jpg)
+![](../images/site/index_files/aktuality/alpy_leto_2016.jpg)
 
 **Rakúske leto 2016** pridané 19.10.2016
 
@@ -136,7 +136,7 @@ Schneeberg ( A )
 
 [Hory.sk](http://www.hory.sk)
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/index_files/index-rumunsko.jpg)
+![](../images/site/index_files/index-rumunsko.jpg)
 
 **Guatemala**
 

@@ -66,11 +66,11 @@ Barman plně reprezentuje své bratislavské kořeny. A tak vůni pryskyřice z 
 
 Po pár pivkách mizíme. Ti silní pěšo a ti méně zdatní kolmo. Večer zakončíme oslavou hned dvou narozenin v kolibě za domem. Narozenin těch samých náčelníků jako minulý rok v oblasti Pelsteine v Rakousku. Uteklo to chlapci, už jste zase o rok starší:).
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/babie_leto_2012/1s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/babie_leto_2012/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/babie_leto_2012/2s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/babie_leto_2012/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/babie_leto_2012/3s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/babie_leto_2012/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/babie_leto_2012/4s.jpg)
 

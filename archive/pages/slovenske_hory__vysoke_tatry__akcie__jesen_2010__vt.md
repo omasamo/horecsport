@@ -14,11 +14,11 @@ Ani neviem, ale vlastne viem prečo ma to už koncom leta strašne ťahalo na sk
 
 Takže sa Horár so mnou mordoval niekoľko krát na Peilsteine, raz sme sa išli otestovať do Beckova, kde sme opáčili niečo z domoviny (teda hrudu, nie pálenku) napodiv sme celkom obstáli.
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/jesen%202010/1s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/jesen_2010/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/jesen%202010/2s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/jesen_2010/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/jesen%202010/3s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/jesen_2010/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/jesen%202010/4s.jpg)
 

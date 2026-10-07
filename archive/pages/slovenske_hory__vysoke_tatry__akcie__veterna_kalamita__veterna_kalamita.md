@@ -4,11 +4,11 @@
 
 Vysoké Tatry - Veterná kalamita [>>>>>](https://web.archive.org/web/2023/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/veterna_kalamita/veterna_kalamita1.htm)
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/veterna_kalamita/t1.jpg)
+![](../images/site/slovenske_hory/vysoke_tatry/akcie/veterna_kalamita/t1.jpg)
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/veterna_kalamita/t2.jpg)
+![](../images/site/slovenske_hory/vysoke_tatry/akcie/veterna_kalamita/t2.jpg)
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/veterna_kalamita/t3.jpg)
+![](../images/site/slovenske_hory/vysoke_tatry/akcie/veterna_kalamita/t3.jpg)
 
 ![](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/veterna_kalamita/t4.jpg)
 

@@ -20,11 +20,11 @@ Na chate je iba pár hostí a časť večera trávime romanticky, pri petrolejk�
 
 S Lubom z chaty spomíname na nezabudnuteľného Silvestra. Horcoví kamaráti ma obdarúvajú asi metrovou Horárom vyrezávanou varechou. Tento ktorý ma pekne ošmekol, keď som sa ho pýtal čo to nesie. Hovoril, že snehové skoby najnovšieho typu. J
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/tatry%20zima%202012/1s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/tatry_zima_2012/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/tatry%20zima%202012/2s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/tatry_zima_2012/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/tatry%20zima%202012/3s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/tatry_zima_2012/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/tatry%20zima%202012/4s.jpg)
 

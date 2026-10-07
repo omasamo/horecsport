@@ -24,11 +24,11 @@ Po krátké diskusi, potřesení pravicí a malém občerstvení v podobě jedno
 
 Závěr večera zakončíme na izbě. Jirka nabrousí zbraně, ledové šrouby, pošleme do sebe sadu slivovic, řízek se salátem, zavzpomínáme na balkoně a jde se spát.
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/silvester_2012/1s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/silvester_2012/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/silvester_2012/2s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/silvester_2012/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/silvester_2012/3s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/silvester_2012/3s.jpg)
 
 Druhý den se jako první vzbudí Dušan a s větou co jste mi to udělali vy kluci klucatí – vstávejte. Začíná sluncem rozzářený sobotní den. Raňajky co kdo donesl, čaj dole v lokálu, hygiena, zbalit se na lezení, tůru a vyrazit na cestu do Velké studené doliny. Bojovníci se třesou na Grosův led, míjíme Královnin závoj, který je málo nateklý,Veverkáč, kde už lezou. Pokračujeme pod Grosův led, popřejem si pěkný den a mi vyrážíme na Zbojničku a chlapci na Grosák. Je krásný slunný ráno. Na chodníku je dost turistů různých národností. S Barčou se kocháme štíty hor. Je teplo ani větřík nefoukne. Na Zbojničku dorážíme okolo oběda, uvnitř je tolik turistů, že si bereme kávu ven. Fotíme co se dá. Cestou zpět se dozvídáme, že lezecká sekce změnila plán, nejsme na Grosáku moc lidí – sešli jsme na Šašův led pod Veverkáčem – to je SMS-ka. Ptám se Barči, kde se odbočuje na Šašův led, nic nevíme. Domlouváme se s klukama, že
 

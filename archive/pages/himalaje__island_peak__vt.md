@@ -10,11 +10,11 @@
 
 No. Tak som si opäť „trochu“ zasprievodcoval...tentokrát v Nepále..hmm pekné to tam majú chlapci nepálski a môžem povedať, že mnohé sa zmenilo za tých 6rokov, čo som tam nebol. Neviem, či k lepšiemu alebo k horšiemu, každopádne zmenu som zaregistroval. Mobil má už každý Nepálec v Kathmandu a každý druhý trekujúci, nosiaci tovar či materiál priamo v srdci Himalájí. Pred 6 rokmi to tak nebolo.., ale nebola ani taká dobrá strava, bola skromnejšia, teraz sa prispôsobujú požiadavkám západného sveta, ale musím povedať, že tá súčasná strava je rovnako vynikajúca ako tá spred pár rokov. A letisko v Lukle? Okupuje čoraz viac vrtulníkov.., ti piloti su naozaj frajeri. A baba v lodge pri letisku v Lukle je rovnako mazaná a drahá (ťažiac zo svojej polohy pri letisku) ako kedysi.. po chodníkoch už nezastavujú komunisti a nepýtajú poplatky, ale tých výberčích moc neubudlo.. tak ich obchádzam, lebo ani neviem prečo furt niečo platiť, kedže vstup do parku som už platil.. tak neplatím, obchádzam a im to nevadí, veď príde zase niekto, kto platiť bude.., aj po chodníkoch je viac občerstvovacích miest s väčšou ponukou ako bývala.., viac turistov, horolezcov. V Dingboche sedím na pive s Peťom Hámorom- skvelý chlapík, vie čo rozpráva, ja čo počúvam.. v rovnakom mieste berie vrtulník jedny zavodnené pľúca do KTM.. žijú, full service v základnom tábore, vynikajúce jedlo, čaj, káva.
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/himalaje/island_peak/1s.jpg)
+![Highslide JS](../images/site/himalaje/island_peak/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/himalaje/island_peak/2s.jpg)
+![Highslide JS](../images/site/himalaje/island_peak/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/himalaje/island_peak/3s.jpg)
+![Highslide JS](../images/site/himalaje/island_peak/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/himalaje/island_peak/4s.jpg)
 

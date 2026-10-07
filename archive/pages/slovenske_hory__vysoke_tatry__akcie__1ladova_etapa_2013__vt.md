@@ -14,11 +14,11 @@ Dole ako vždy po tme..
 
 Vo štvrtok večer sme došli domov, vyhádzali veci, usušili, v piatok ráno pakujem opäť do batohu, v piatok podvečer odchod do Tatier.. aká náhoda môj spolujazdec je Horár. Rolujeme okolo 23 v našom BC v Novej Lesnej.
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/1ladova_etapa_2013/1s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/1ladova_etapa_2013/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/1ladova_etapa_2013/2s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/1ladova_etapa_2013/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/1ladova_etapa_2013/3s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/1ladova_etapa_2013/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/1ladova_etapa_2013/4s.jpg)
 

@@ -14,11 +14,11 @@ Vo štvrtok večer dorazí Fištrónek. To je dobre, lebo s ním prichádza nie 
 
 Dáme čaj, dobalíme pár blbostí a už aj volá Predseda, že máme ísť. Pakujeme všetko do Horárovho luxusného kombíka českej značky a je to len tak, tak. Tento výlet si to za volantom vyžere on. Nič sa nedá robiť, zdá sa, že to prijal, no ale prvé súvetie sme prehovorili asi tak o 7,30 keď sme sa všetci zobudili, dokonca aj Predseda spal a nekvakotal ako vždy. Horár tíško bojuje bez kávy za volantom, nalievame mu ju, až keď vstaneme. Ešte 2 hodky a sme tam. V doline našej obľúbenej. Toho roku sú - ako postupom dní zisťujeme podmienky snáď najlepšie, čo sem chodíme. Veľa ľadu, málo snehu. Takto sme to chceli! Vystúpime na parkovisku pri mýte, niečo pojeme a Horár navrhuje na dnes Aluhol. Je blízko, čas už pokročilý, ten kúsok pod ľad – asi 40min, sa aspoň trochu roztiahneme. Apropoo Aluhol, aby som ho predstavil, nie je až tak na rozohriatie, ako by sa moholo zdať. Vlastne je to robota až do tmy. Tak aj bolo. Veď je to WI4/240m. Ale každá dvojka sa s tým vysporiadala v kľude po svojom, bez zbytočných kecov a prieťahov. Dvojky su normal Horár-Predseda, Fištrón-ja. V týždni som kúpil nové lano, tak seniorská dvojka si ho bez slov privlastňuje, nepýtajú sa na náš názor. Nám zostáva modré, ktoré sa skladá z dvoch modrých J. Jedno trochu modré a druhé viac modré. Jasné ako facka. Dober modré...atď..no comment. Hlavne, že tí dvaja majú žlté a červené. Tak som si posťažoval, no a po zlanení sa už aj zotmelo a to je čas nájsť si nejaké miestečko, kde by sme zložili naše unavené hlávky po dnešnom dlhšom dni. Samozrejme niečo pojesť, čaju navariť, pár hltov horca prehnať trubkami. To sa aj darí a my sa viac menej vyspatí, trochu drevenní zobúdzame do dňa č.2)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/obere_tauern/maltatal_2015/1s.jpg)
+![Highslide JS](../images/site/alpy/obere_tauern/maltatal_2015/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/obere_tauern/maltatal_2015/2s.jpg)
+![Highslide JS](../images/site/alpy/obere_tauern/maltatal_2015/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/obere_tauern/maltatal_2015/3s.jpg)
+![Highslide JS](../images/site/alpy/obere_tauern/maltatal_2015/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/obere_tauern/maltatal_2015/4s.jpg)
 

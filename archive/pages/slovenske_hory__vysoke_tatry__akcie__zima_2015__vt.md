@@ -10,11 +10,11 @@ Ani sme sa nenazdali a už nám ďalšia zimná sezóna zaklopala na dvere. A h�
 
 Teda aspoň pre mňa, chudáka Candátka som tam nehal samého, s ostrými čakanmi, čakajúceho na ten správny okamih J. Ale tak chalanisko sa doma nenudí rodina, les, mrtvola, práca, rodina, les, mrtvola, práca, rodina, les, mrtvola, práca... pestré, ale je v poho ešte nezošalel, aj keď sú tam isté náznaky psychickej nestability, hehe...
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/zima_2015/1s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/zima_2015/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/zima_2015/2s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/zima_2015/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/zima_2015/3s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/zima_2015/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/zima_2015/4s.jpg)
 

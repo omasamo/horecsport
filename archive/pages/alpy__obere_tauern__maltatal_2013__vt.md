@@ -20,11 +20,11 @@ K autu sa vraciame potme. Ubytko máme rezervované v zrubovom domku v doline. A
 
 J
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/obere_tauern/maltatal_2013/1s.jpg)
+![Highslide JS](../images/site/alpy/obere_tauern/maltatal_2013/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/obere_tauern/maltatal_2013/2s.jpg)
+![Highslide JS](../images/site/alpy/obere_tauern/maltatal_2013/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/obere_tauern/maltatal_2013/3s.jpg)
+![Highslide JS](../images/site/alpy/obere_tauern/maltatal_2013/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/alpy/obere_tauern/maltatal_2013/4s.jpg)
 

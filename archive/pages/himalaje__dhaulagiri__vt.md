@@ -20,11 +20,11 @@ Veľkú časť nasledujúceho dňa trávime v autobuse, na ceste do Pokhary. Je 
 
 Medzi množstvom milých stretnuti sa vyníma návšteva jedinej internátnej školy v údoli, s večerným programom žiakov pre nás. Na záver dokonca spoločne tancujeme na najnovší nepálsky hit: „ [Resham firiri](https://www.youtube.com/watch?v=qwDBE-87NWE&list=RDqwDBE-87NWE#t=0) “. Tento song nás potom sprevádza celým našim nepálskym pobytom.
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/himalaje/dhaulagiri/1s.jpg)
+![Highslide JS](../images/site/himalaje/dhaulagiri/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/himalaje/dhaulagiri/2s.jpg)
+![Highslide JS](../images/site/himalaje/dhaulagiri/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/himalaje/dhaulagiri/3s.jpg)
+![Highslide JS](../images/site/himalaje/dhaulagiri/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/himalaje/dhaulagiri/4s.jpg)
 

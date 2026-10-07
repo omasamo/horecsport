@@ -8,15 +8,15 @@
 
 Ako už tradične, v lete lezeniu moc nedáme, lebo sa pomaly ale isto meníme na klub záhradkárov. Aj napriek tomu, ale predsa len boli zaznamenané spočiatku nejaké letmé dotyky so skalou. Tak sa nám to zapáčilo, že sme sa zapozerali najmä do tej tatranskej a nakoniec z toho boli celkom horúce, intenzívne, mnohokrát drsné, náročné, ale zato nezabudnuteľné dotyky, s našou partou rozehratou tralala.. Toto leto sme však absolvovali len v trojici (ale nie po opici), lebo šak náš Jiříček, Candátek, Fištrónek, Cabadaj, Honzo, Pepo, Péťo, Lojzík sa stal v júni roku pána 2015 hrdým otcom Aničky, no a musel ostať zatiaľ doma kojiť J. Občas sa síce dá stretnúť v patinou poznačenej hospode „Na mrtvole“, kde sa vďaka dymovej clone len ťažko orientuje, podobne ako v novembrovej hmle za rannej rosy na žitnom ostrove. Videli ho aj na námestí v Pelhřímově, ako olizuje zmrzlinu malej Andulke. Dokonca som započul, že srny z Vysočiny uskutočnili masový presun do iných, hlukom tak nepostihnutých oblastí, pretože ich neustále atakuje nejaký šialenec na malotraktore Agrostroj Prostějov Pf62 r.v. 1962. Popis zodpovedá na našeho spolulezca (ale to sme v médiách na tlačovke neprezradili) J
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/leto_2015/61s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/leto_2015/61s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/leto_2015/62s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/leto_2015/62s.jpg)
 
 Škoda, že nechodí lebo, ako jedinému radovému členovi v našom funkčnom klube, mu prislúcha dôležitá funkcia (okrem iných funkcíí) nosiča materiálu, lán, kozieho syra, hasičkej klobásy a inej výživy, ktorej sa zhostil vervou puntičkárskou, jemu tak vlastnou. Takto sme to museli všetko nosiť my, na naších predsedníckych bedrách, len tie mozole nám zostali.. J. A vek pribúda... V skratke potrebujeme súrne omladiť! No a potom som si spomenul, že ten rozpačitý letný začiatok môžeme pripísať len horúcemu letu, na čo si asi treba zvyknú. A to nám aj teda trvalo. J
 
 **Júl:**to sme sa takto jeden horúci, tuším piatok, vybrali k našim susedom do Rakúska. Najprv po A4 (vtedy sa ešte dalo J), potom po A2 a S6 a došli sme až do obľúbenej lezeckej oblasti Hollental, až na Stadelwand Parkplatz. Tu rýchlosťou dva kroky vpred krok vzad, po strmej šotoline, pod nástup na cestu Neuer Zimmerweg [http://www.bergsteigen.com/klettern/niederoesterreich/rax-schneeberg-gruppe/neuer-zimmerweg](http://www.bergsteigen.com/klettern/niederoesterreich/rax-schneeberg-gruppe/neuer-zimmerweg). Predseda bol ako vždy nezadržateľný a vbehol do nejakého projektu miestnych borcov, čo sme so smiechom okomentovali ako by to dopadlo, že dedinský hasiči nemajú také dlhé rebríky atď atď. J. Srandy kopec na úvod – ono sa to potom lepšie lezie. A to sa aj udialo – liezlo sa nám velice dobre. Napriek tomu horku to išlo fajn, našťastie stála nad každým štandom borovica a ten tieň bol v ten deň ako výhra v lotéríí. Nuž sme tých 10 dĺžok spolkli ako sklenici vody (akoby povedal nezabudnuteľný účetný Fantozzi). Na podvečer sme skočili bez váhania do tyrkysovej vody riečky Schwarza a až toto bol doslova vrchol dňa. Malé občerstvenie, vychladené pivečko sledujúc nejakého športového rybára a potom hajde domov.
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/leto_2015/1s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/leto_2015/1s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/leto_2015/2s.jpg)
 

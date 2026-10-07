@@ -18,11 +18,11 @@ Prezradím, že chlapi v Jordánsku fajčili bez prestávky a vôbec neboli ocho
 
 Najväčšie zhrozenie, ktoré som zažila bolo, kedď šofér tankoval a oblial sa benzínom. Takto si sadol do auta a veselo si zapálil!
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/jordansko/1s.jpg)
+![Highslide JS](../images/site/jordansko/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/jordansko/2s.jpg)
+![Highslide JS](../images/site/jordansko/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/jordansko/3s.jpg)
+![Highslide JS](../images/site/jordansko/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/jordansko/4s.jpg)
 

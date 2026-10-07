@@ -8,15 +8,15 @@ Partia kamarátov so záujmom o turistiku, horolezectvo, skialpinizmus, cyklisti
 
 a ostatné športy spojené s prírodou a všeličo iné:-)
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/onas/lenka.jpg)
+![](../images/site/onas/lenka.jpg)
 
 **Lenka**
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/onas/monika.jpg)
+![](../images/site/onas/monika.jpg)
 
 **Monika**
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/onas/dusan.jpg)
+![](../images/site/onas/dusan.jpg)
 
 **Dušan**
 
@@ -24,7 +24,7 @@ alias
 
 **Predseda**
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/onas/ivan.jpg)
+![](../images/site/onas/ivan.jpg)
 
 **Ivan**
 
@@ -32,7 +32,7 @@ alias
 
 **Mercedes**
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/onas/ivo.jpg)
+![](../images/site/onas/ivo.jpg)
 
 **Ivo**
 
@@ -40,7 +40,7 @@ alias
 
 **Horár**
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/onas/lubo.jpg)
+![](../images/site/onas/lubo.jpg)
 
 Luboš
 
@@ -48,11 +48,11 @@ alias
 
 Peťo
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/onas/roman.jpg)
+![](../images/site/onas/roman.jpg)
 
 **Roman**
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/onas/fistronek.jpg)
+![](../images/site/onas/fistronek.jpg)
 
 **Jirka**
 

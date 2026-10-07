@@ -16,11 +16,11 @@ Popradske pleso - Zlomisková dolina - Východná Železná brána - časť cest
 
 Dušan
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/komarnickych_2012/1s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/komarnickych_2012/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/komarnickych_2012/2s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/komarnickych_2012/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/komarnickych_2012/3s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/komarnickych_2012/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/komarnickych_2012/4s.jpg)
 

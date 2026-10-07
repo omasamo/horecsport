@@ -30,11 +30,11 @@ Nedivím se už. Já to projel!
 
 Samozřejmě mě v tom nenechají. A celá parta přátel, mě jde starostlivě podpořit před chatu s fotoaparáty a doutníčky. Celé by to byl i hezký zážitek, jen ten sněhem zapadaný ostnatý drát proti medvědům v poslední zatáčce za chatou být nemusel. No jo no, jsou věci, se kterými občas člověk nepočítá.
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/vysokotatransky%20_silvester_2011/1s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/vysokotatransky__silvester_2011/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/vysokotatransky%20_silvester_2011/2s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/vysokotatransky__silvester_2011/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/vysokotatransky%20_silvester_2011/3s.jpg)
+![Highslide JS](../images/site/slovenske_hory/vysoke_tatry/akcie/vysokotatransky__silvester_2011/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/vysokotatransky%20_silvester_2011/4s.jpg)
 

@@ -12,11 +12,11 @@ Bankok – po dlhom lete sme vyšli z letiska a ovalilo nás veľké horko aj ke
 
 Ráno sme si zobrali tuk-tuk, ktorý asi za 40 B nás 4 hodiny vozil po všetkých pamiatkach v Starom meste. Videli sme asi takmer všetko, čo sa dalo: Veľkého stojaceho Budhu – Wat Intrawihan, Wat Sunthon Thammathan, Wat Benchamabophit, Wat Arun Ratchawararam, Wat Saket, povozili sme sa po kanále rieky Chao Phraya, navštívili Veľký palác – Wat Prakaeo, kde sa nachádza aj Smaragdový Budha.
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/thajsko/1s.jpg)
+![Highslide JS](../images/site/thajsko/1s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/thajsko/2s.jpg)
+![Highslide JS](../images/site/thajsko/2s.jpg)
 
-![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/thajsko/3s.jpg)
+![Highslide JS](../images/site/thajsko/3s.jpg)
 
 ![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/thajsko/4s.jpg)
 

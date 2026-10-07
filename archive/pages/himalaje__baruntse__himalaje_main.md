@@ -2,9 +2,9 @@
 
 > Zdroj: http://horecsport.sk/himalaje/baruntse/himalaje_main.html — Wayback snapshot 20210308125810 (https://web.archive.org/web/20210308125810/http://horecsport.sk/himalaje/baruntse/himalaje_main.html)
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/himalaje/baruntse/logo.jpg)
+![](../images/site/himalaje/baruntse/logo.jpg)
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/himalaje/baruntse/baruntse_main.jpg)
+![](../images/site/himalaje/baruntse/baruntse_main.jpg)
 
 [HorecSport](index.md) | [Úvod](https://web.archive.org/web/2023/http://horecsport.sk/himalaje/baruntse/himalaje_uvod.html) | [Účastníci expedície](https://web.archive.org/web/2023/http://horecsport.sk/himalaje/baruntse/himalaje_ucastnici.html) | [Trasa](https://web.archive.org/web/2023/http://horecsport.sk/himalaje/baruntse/himalaje_trasa.html) [expedície](https://web.archive.org/web/2023/http://horecsport.sk/himalaje/baruntse/himalaje_trasa.html) | [Fotogaléria](https://web.archive.org/web/2023/http://horecsport.sk/himalaje/baruntse/fotogaleria/vt.htm) | [Popis akcie](https://web.archive.org/web/2023/http://horecsport.sk/himalaje/baruntse/himalaje_popis.html)
 
@@ -22,7 +22,7 @@ Vrchol Baruntse bol prvýkrát dosiahnutý 30. mája 1954 členmi novozélandske
 
 ![](https://web.archive.org/web/2023im_/http://horecsport.sk/himalaje/baruntse/logo_cq.gif)
 
-![](https://web.archive.org/web/2023im_/http://horecsport.sk/himalaje/baruntse/kakas.jpg)
+![](../images/site/himalaje/baruntse/kakas.jpg)
 
 ![](https://web.archive.org/web/2023im_/http://horecsport.sk/himalaje/baruntse/palenica.jpg)
 

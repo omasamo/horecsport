@@ -105,6 +105,13 @@ def fix_links(body, prefix):
         return f'href="{prefix}index.html"'
     body = re.sub(r'href="([^"/:]+\.md)"', link, body)
     body = body.replace('src="../images/', f'src="{prefix}archive/images/')
+    # use a downloaded copy of a Wayback image when archive/images/site has one
+    def local(m):
+        rel = m.group(1)
+        if (ARCHIVE / "images/site" / rel).exists():
+            return f'src="{prefix}archive/images/site/{rel}"'
+        return m.group(0)
+    body = re.sub(r'src="https://web\.archive\.org/web/\w+/https?://(?:www\.)?horecsport\.sk/([^"]+)"', local, body)
     body = re.sub(r'<a href="">(.*?)</a>', r"\1", body)
     body = body.replace("<img ", '<img loading="lazy" ')
     # runs of image-only paragraphs become a photo grid
@@ -178,6 +185,8 @@ def page(title, body, prefix, description="", body_class=""):
 
 
 def thumb(file):
+    if (ARCHIVE / "images/site/index_files" / file).exists():
+        return "archive/images/site/index_files/" + file
     return WAYBACK_IMG + "index_files/" + file
 
 

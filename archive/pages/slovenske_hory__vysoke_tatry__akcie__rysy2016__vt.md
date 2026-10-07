@@ -1,0 +1,125 @@
+# HorecSport
+
+> Zdroj: http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/vt.htm — Wayback snapshot 20220308014411 (https://web.archive.org/web/20220308014411/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/vt.htm)
+
+[HorecSport Home Page](index.md)
+
+SV stena Rysov, tzv Poľská cesta,
+
+alebo ako sme s hrncom paprikášu po Popradskom plese behali...
+
+Vysoké Tatry 2016
+
+[http://www.tatry.nfo.sk/stena.php?kod=06870517:Rysy:2503](http://www.tatry.nfo.sk/stena.php?kod=06870517:Rysy:2503) cesta č.2. Tak to je ona, cestička, do ktorej sme potichúčku, nesmelo nakŕkali ešte z čias našich Horcových sústredení na chalúpke v Bielovodskej doline. To je už fakt dosť dávno, ak ma pamäť neklame, boli to zlaté klubové časy roku pána 2007-2009, jáááj to boli, že to naozaj bezstarostné časy, odvtedy pretieklo Bielovodským potokom veľa vody a veru veľa sa zmenilo v živote každého klubistu. Ale ako to v živote býva tak, každý z nás sníval ako aj vtedy my v Bielovodskej pri piecke (nekonečné rozhovory pri sviečke a Horárovej fazule a Lubového ovaru) tak sa potom - keď bude každý z nás rozsievať po svete dobro a šťastie a veľa, veľa sa modliť, tak sa potom aj niektoré sny aj splnia J. A nám sa ten tatranský splnil... Proste jedného dňa koncom apríla, sadlo všetko ako má sadnúť, čiže od podmienok v stene, voľna, počasia, partie a ostatných polien všetko OK a my predsedníctvo (Predseda, Horár a ja) sme vyrazili za svojou 8-9 ročnou výzvou, ktorá nás mátala už nejakú tú zimu do Tatier, práve kvoli tejto parádnej zimnej ceste..
+
+Nuž sme sa teda po sledovaní podmienok v severných stenách rozhodli ísť do toho, ale naozaj so všetkým rešpektom k ceste, lebo ako si všetci dobre pamätáme, tak stena vyprášila krpce nejednému zdatnému alpinistovi. Podmienky, počasie vypadá všetko ok, posledný týždeň nasvedčuje tomu, že sa všetko uvarí podľa našich chúťok, ale čo to? Dva dni pred ochodom do Tatier začne hore snežiť a zrovna najväčší úhrn jarných zrážok hlásia na severe.. do riti ešte toto chýbalo, sneži aj v den odchodu hore, ale už sme to nepresúvali na neskôr, lebo na jar by sa mohlo stať osudným, oteplí sa a ostaneme sedieť v robote na zadkoch.. Samozrejme, že koľko nasnežilo a nejaké ďalšie podrobnejšie info o počasí som si mohol tak z prsta vycucať, lebo na SK sa to proste nedá... čiže ako vždy všetko ukáže realita. Pravdupovediac, dokážem si predstaviť aj lepšie pocity než ako tie, s ktorými som odchádzal do Tatier. Lebo ako som už spomenul chce to 100% podmienky, no a my sme tu zrazu mali vážnu trhlinu v našom pláne. Ale ako už neraz, neodradilo nás to. Radšej budeme tušim všetci popičkovávať a boriť sa v snehu po pás ako v robote sedieť J. Ešte pred odchodom volám Viktorovi, reku či čírou náhodou nehodlá stráviť nasledujúce dni na chate, že by sme tam prespali. Ejjj skoro to vyšlo, ale zrovna má doma nejakú zápletku s trúbou, tak ostáva doma v pohotovostnom režime. Čiže neostáva nám nič iné, vlastne skoro ako vždy a voliť nástup zo spodu. Noo vlastne sme si to skrátili – prespali sme na Popradskom plese. Cestou sa chlapci zastavili pre mňa v NM a s ním aj hrniec paprikášu, ktorý iniciatívne pripravila moja mama, lebo šak „a čo tam budete jesť?“ J Nuž sme ochotne našli v kufri dôstojné miesto pre nie zrovna malý hrniec. Po príchode na Popradské sme hrniec radšej vytiahli z kufra, aby zobúdzajúci sa hladoši neurobili z Predsedovej luxusnej limuziny plechovku J. Chato-hotel prázdny, asi tak 15ks nás tam spalo, nejakí zblúdilí turisti, nejaký ten páreček, on a ona, no a naše trio-rio. O 5,30 budíček o 6 odchod. Nádherné, jasné, mrazivé ráno, všade ticho, prvé kroky v Mengusovskej doline, pohľady na skupinku okolo Satana, hrebeň Bášt, nikde nikoho, tak to máme radi. Pri Žabích plesách prituhuje ešte viac, pohľad Satana cítim stále na chrbte, pred sebou krásny Žabí kôň ako vymalovaný, Rysy... Až pod nástupom k reťaziam registrujeme prvý pohyb. Dvaja skialpinisti lyžujú smerom k nám niekde spod Volovca. Idú po nás, reťazami friško prebehneme a už vidím chatu a nad ňou kúsok už hranica tieňu a slnka, obchádzame opustenú chatu, bodol by výborný čajík aj modlitebná poľská knižka..., ešte pár metrov a sme na slnku, za necelé dve hoďky, pred 8 sa vyhrievame na slnečných lúčoch vo Váhe. Skialpinisti dorazia takmer súčasne s nami. Tu raňajkujeme, čaj, žemlu. Cez deň už na to čas nebude, každý dá rád do seba nejaké to sústo. Pohľady dole pod nás do severu do Ťažkej doliny a okolitých stien hovoria, že toho čerstvého snehu zase až tak málo nepripadlo...uf budeže to zábavy. No, ale už to neriešime. „ni krok späť“. Lyžiari odchádzajú, balíme sa aj my, ešte zahrabem balíček s klobásou a pivom do snehu, cestou dole to bude ako poklad J. Ešte pohľad do galérky a už aj pajtášime dole, kým to není moc nasvietené slnkom, tu sa strácame Satanovi z dohľadu, veď sa ešte dnes uvidíme... Horná časť už mäkne a docela sa lepí sneh na mačky, až tak, že miestami ideme radšej čelom ku svahu. Dušanko sa vytrápi tuším najviac. Zostupujeme až takmer na samý spodok a tu len kúsok nad Zmrzlým plesom, tu sa lúčime so slnkom, navliekame bundy a následuje exponovaný traverz so snehoľadovým zostupom pod samotnú roklinu a náš nástup. Cez spodný preľadnený prah je vypadnutá nejedna lavína, ale tá posledná je naozaj dosť zvláštna, keď za sebou nechala hlboké koryto, čo sme okamžite nazvali bobovou dráhou, hĺbka/výška koryta je miestami aj 1,5metra, opäť niečo nové aj po rokoch, keďže sme v takom niečom ešte neliezli. Horár už zatína do prvého prahu a ide mu to docela dobre, zdá sa, že podmienky snehovo ľadové v prahoch sú ok, ale pomimo leží naozaj dosť nafúkaného, nového, nestabilného snehu, predsa len roklina je hlboký zárez, kde sa nejaká tá vločka naukladala za predchádzajúce dva dni. Tušim prvá dĺžka je dosť taká nejaká ani neviem aká, no proste, že neviem či sa nepridáme do skupiny vyprášených alpinistov, ale tak Horár vedie stopu naozaj majstrovsky a eliminuje prípadné nebezpečenstvo. Proste faktor, ktorý môže ovplyvniť, ovplyvňuje ako sa len dá. Následuje druhá, tretia dĺžka, druhý, tretí prah a ďalšia dĺžka až sme si zvykli žiť v tejto rokline s tým nie moc dôveryhodným snehom, ale zato nádherným dobrodružným koloritom, pohľad dole hovorí, že by som sa fakt nechcel pridať do horeuvedenej skupinky J. A tak sa tu prebavujeme v tom našom svete, bojujeme, nadávame, smejeme sa, kričíme, potíme sa, mrzneme, až sa dostávame do finálnej časti cesty, tu sa roklina rozširuje a výhľady do galérky su fantastikuš. Ešte posledná dĺžka, vediem ju po parádnom tvrdom snehu a o pár minút osedlám kameň navrchu lievika, zrobím istenia, utvrdzujem sa, že su stabilné a zvolám „Istíííím“! Ha tak je to za nami, chlapci najprv Horár, potom Predseda doliezajú, ešte sa poposunieme na slnko, vybalíme termosky a nejaké sladkosti a bez slov užívame podvečer, mäkké podvečerné slnko, klid a mír všade naokolo. Stojíme na prahu lievika za Kopou nad Váhou a čumíme dole do tej tmavej diery odkiaľ sme vyliezli. Dole v diaľke vidíme všetky kopce, doliny z čias sustredení v Bielovodskej. Aj táto cesta má s tým súvis..., vtedy sme pozerali zdola nahor a dumali o tom aké to tam v tej rokline je. Teraz to už vieme..., každý si to spracuje po svojom, ale určite sa tam objaví prívlastok dobrodružné.
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/1s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/2s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/3s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/4s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/5s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/6s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/7s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/8s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/9s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/10s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/11s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/12s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/13s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/14s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/15s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/16s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/17s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/18s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/19s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/20s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/21s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/22s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/23s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/24s.jpg)
+
+Cestou dole sa zastavím na rozdiel od Horára a Predsedu vo Váhe, vyhrabávam studené pivečko a klobásku zo snehu a usmievam sa pri tom, blažený, ťažko popísateľný pocit, väčšina ľudí ho pozná a vie o čom píšem J. Vidím, že chlapci už pred opustenou chatou urobili posed na podvečernú siestu, o 5min som pri nich. Vybalujeme jedlo, ja s úsmevom pivečko, o ktorom chlapci nevedeli, reku, že im (aj sebe) urobím radosť. Predseda vyvaluje oči a Horár zapotí, že „ja nebudem mna bolí hrdlo“, no a teraz vyvalujem oči aj ja J)))). Hovorím a to je čo za k......a? Tak ja to tu valím aby si mi povedal, že teba bolí hrdielko, tak sme sa s Predsedom šúlali čo to ten neborák zablábolal, že sa medvede zo spánku ztrhávali v Mengusovskej. Potom to už prehodnotil už aj Horár a sosal zarovno s nami, tu sme si aj užili krásny západ slnka... o pol 7 sa rozbehneme dole a niečo po pol 8 už aj rolujeme na Popradskom. Pre istotu sme sa držali pokope aby sme sa ubránili nejakému tomu zobudenému, nasrdenému jogimu. Teda obvykle na zostupoch meškám, ale v ten podvečer som radšej nemeškal. Cestou dole vidím ako sa každému nad hlavou vznáša obláčik a v ňom jasne vidím porciu paprikášu a vedľa neho pivečko s poriadnou penou J. Preto to zničujúce tempo nadol J
+
+Prvé čo sme urobili po príchode na Popradské sme trielili do výčapu a dali po dve. No a potom naše kroky viedli do kuchynky zohriať plný hrniec paprikášu s haluškami a mohla sa začať hostina, to bolo vskutku dôstojné zakončenie dnešného pre ľudstvo tak dôležitého dňa J.
+
+Horám a horcu zdar a šikovnej kuchárke zvlášť!
+
+p.s. na druhý deň som nevstal, nemal som nohy. Chlapci po vypití troch pív (z toho prvé sme dali ráno na lôžku asi tak o 6,30 J ) zistili, že nohy majú, tak vyrazili vstriec novým zážitkom. Ale o tom možno, ale to fakt pochybujem popíše Dušanko..., takže je dosť pravdepodobné, že sa to nikto, nikdy nedozvie, čo tí dvaja v Zlomiskách stvárali, haaaaaa
+
+Ivík
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/25s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/26s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/27s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/28s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/29s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/30s.jpg)
+
+Na rozdiel od Ivana, ja som na na druhý deň vstal, lebo som tie svoje nohy našiel. No pravdu povediac, morálno-vôľové vlastnosti som pre zmenu nenašiel zase ja. Avšak tretí člen našeho týmu sa zobudil aj s nohami a dokonca aj s tými vlastnosťami, čo chýbali mne. So stúpajúcim slkom na oblohu a “vďaka“ Horárovej neustúpčivosti, sa obliekam a balím ruksak aj ja. Ako vždy v takýchto chvíľach sa ideme iba niekde “pozrieť“. Veľmi dobre viem, ze to nebude len také hocijaké pozeranie. Tentokrát sú našim cieľom Zlomiská a buď to bude nejaký “ľahší “ žľab v Tupej alebo sa pozrieme do severných zrázov na konci doliny.
+
+Počasie bolo nádherné, míňame celý masív Tupej ( rozhodnutie kam ísť evidentne odkladáme ) až sme pomaly na konci doliny. Teraz už nezostáva nič iné, iba splniť Horárovu túžbu a pozrieť sa do severozápadných tatranských zrázov. Naše snaženie smerujeme na Západný štít nad Železnou bránou. Spočiatku sa mocujeme s mokrým snehom, ktorý čoskoro vystrieda skalný hrebeň. Spočiatku ideme sólovo, avšak časom usudzujeme, že istota je istota a tak sa naväzujeme na lano. Štyri či päť dľžok a sme na vrchu. Tak a tu sa možeme pozrieť do severný a západných zrázov Gánku, Zlobivej či Snežnej kopy. Jediné šťastie, že sme iba pozerali. Vyzerá to tam teda dosť strašideľne.::-)
+
+Cestou na chatu sa Horár pokúša zobrať odrezanú metrovicu z vyvrátenej limby, avšak tá bola taká ťažká, že ani celý HorecSport Team by to veru nezvládol. Ale mne je jasné, že pri najbližšej návšteve Zlomísk, sa pokus o kus limby bude opakovať.:-)
+
+P.S. Nakoľko sme sa dlhšie nestretli s našimi českými kamarátmi, doteraz spolu nemáme vyriešenú jednu novú zásadnú českú jazykovú otázku. ( A to sme ešte nevyriešili predchádzajúcu: či sú Česi alebo Češi:-) )
+
+V tom období sa totiž rozhodli zmeniť názov štátu z Czech Republic na kratšie Czechia. A tak doteraz neviem, či sú Češi alebo Česi alebo po novom dokonca Čechiovia, alebo vlastne čo?:-)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/31s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/32s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/33s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/34s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/35s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/36s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/37s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/38s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/39s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/40s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/41s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/42s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/43s.jpg)
+
+![Highslide JS](https://web.archive.org/web/2023im_/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/rysy2016/44s.jpg)
+
+Dušan

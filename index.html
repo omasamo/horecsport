@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="sk">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Horec Sport</title>
+  <meta name="description" content="Horec Sport – šport v horách.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <!-- Background: sky + mountain layers that rise as the page scrolls -->
+  <div class="scenery" aria-hidden="true">
+    <div class="sky"></div>
+    <div class="sun"></div>
+    <svg class="range" data-depth="0.25" viewBox="0 0 1440 400" preserveAspectRatio="none">
+      <path d="M0 400V250l120-70 90 40 140-120 110 80 120-60 150 110 130-90 160 100 130-70 120 60 120-40v210z"/>
+    </svg>
+    <svg class="range" data-depth="0.45" viewBox="0 0 1440 400" preserveAspectRatio="none">
+      <path d="M0 400V280l160-110 100 60 170-150 60 40 150-60 140 130 120-40 180 110 150-150 110 70 100 40v260z"/>
+    </svg>
+    <svg class="range" data-depth="0.7" viewBox="0 0 1440 400" preserveAspectRatio="none">
+      <path d="M0 400V300l90-40 150-140 70 50 110-30 170 140 130-180 60 60 160 110 140-70 130 40 130-100 100 80v280z"/>
+      <path class="snow" d="M240 120l-38 35 22-4 16 14 18-16 20 6zM680 100l-36 50 20-8 16 16 16-18 22 8zM1310 120l-34 32 20-3 14 12 16-14 18 4z"/>
+    </svg>
+    <svg class="range" data-depth="1" viewBox="0 0 1440 400" preserveAspectRatio="none">
+      <path d="M0 400V330l200-90 140 60 190-130 160 110 170-70 210 120 180-110 190 110v200z"/>
+    </svg>
+  </div>
+
+  <header class="topbar">
+    <a class="brand" href="#uvod">Horec<span>Sport</span></a>
+    <button class="menu-toggle" aria-expanded="false" aria-controls="nav">Menu</button>
+    <nav id="nav">
+      <a href="#o-nas">O nás</a>
+      <a href="#ponuka">Ponuka</a>
+      <a href="#galeria">Galéria</a>
+      <a href="#kontakt">Kontakt</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="uvod" class="hero">
+      <p class="eyebrow">Šport v srdci hôr</p>
+      <h1>Horec Sport</h1>
+      <p class="lead">Text úvodu doplníme z pôvodnej stránky horecsport.sk.</p>
+      <a class="btn" href="#ponuka">Pozrite si ponuku</a>
+      <div class="scroll-hint" aria-hidden="true">↓</div>
+    </section>
+
+    <section id="o-nas" class="panel">
+      <h2>O nás</h2>
+      <p>Sem patrí predstavenie firmy z pôvodnej stránky: história, tím a to, čím sa Horec Sport odlišuje.</p>
+    </section>
+
+    <section id="ponuka" class="panel">
+      <h2>Ponuka</h2>
+      <div class="cards">
+        <article class="card"><h3>Služba 1</h3><p>Popis doplníme z archívu.</p></article>
+        <article class="card"><h3>Služba 2</h3><p>Popis doplníme z archívu.</p></article>
+        <article class="card"><h3>Služba 3</h3><p>Popis doplníme z archívu.</p></article>
+      </div>
+    </section>
+
+    <section id="galeria" class="panel">
+      <h2>Galéria</h2>
+      <div class="gallery">
+        <div class="ph"></div><div class="ph"></div><div class="ph"></div>
+        <div class="ph"></div><div class="ph"></div><div class="ph"></div>
+      </div>
+    </section>
+
+    <section id="kontakt" class="panel">
+      <h2>Kontakt</h2>
+      <p>Adresa, telefón, e-mail a otváracie hodiny doplníme z pôvodnej stránky.</p>
+    </section>
+  </main>
+
+  <footer class="footer">© Horec Sport</footer>
+
+  <script src="assets/main.js"></script>
+</body>
+</html>

@@ -13,7 +13,8 @@
   --m3: #56637a;
   --m4: #262c38;
   --snow: #f8fbff;
-  --rise: 0;              /* 0 → 1, set from scroll in main.js */
+  --rise: 0;              /* 0 → 1 over the first 1.5 screens, set from scroll in main.js */
+  --drift: 0;             /* 0 → 1 over the rest of the page */
 }
 
 * { box-sizing: border-box; }
@@ -40,8 +41,9 @@ a { color: var(--gentian); }
 .range {
   position: absolute; left: 50%; width: max(110%, 1100px); bottom: 0;
   height: 62vh;
-  /* each layer starts sunk below the fold and rises with scroll; nearer layers travel further */
-  transform: translateX(-50%) translateY(calc((1 - var(--rise)) * var(--depth, 1) * 48vh));
+  /* each layer starts sunk below the fold and rises with scroll; nearer layers travel further,
+     then keeps creeping up while you read (the dark base below matches the front ridge) */
+  transform: translateX(-50%) translateY(calc((1 - var(--rise)) * var(--depth, 1) * 58vh - var(--drift) * var(--depth, 1) * 12vh));
   will-change: transform;
 }
 .range:nth-of-type(1) path { fill: var(--m1); }

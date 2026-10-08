@@ -1,4 +1,5 @@
-// Mountains rise with scroll: --rise goes 0 → 1 across the page.
+// Mountains rise with scroll: --rise goes 0 → 1 over the first screen and a half,
+// then --drift keeps nudging the ranges up (0 → 1) for the rest of the page.
 const root = document.documentElement;
 document.querySelectorAll('.range').forEach((el) => {
   el.style.setProperty('--depth', el.dataset.depth);
@@ -7,8 +8,11 @@ document.querySelectorAll('.range').forEach((el) => {
 let ticking = false;
 function updateRise() {
   const max = root.scrollHeight - innerHeight;
-  const rise = max > 0 ? Math.min(scrollY / max, 1) : 1;
+  const span = Math.min(innerHeight * 1.5, max);
+  const rise = span > 0 ? Math.min(scrollY / span, 1) : 1;
+  const drift = max > span ? Math.min(Math.max((scrollY - span) / (max - span), 0), 1) : 0;
   root.style.setProperty('--rise', rise.toFixed(4));
+  root.style.setProperty('--drift', drift.toFixed(4));
   ticking = false;
 }
 addEventListener('scroll', () => {

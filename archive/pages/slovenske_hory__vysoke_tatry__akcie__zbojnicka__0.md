@@ -1,0 +1,17 @@
+# Horecsport
+
+> Zdroj: http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/zbojnicka/0.htm — Wayback snapshot 20210308122744 (https://web.archive.org/web/20210308122744/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/zbojnicka/0.htm)
+
+Slovensko - Vysoké Tatry [>>](https://web.archive.org/web/2023/http://horecsport.sk/slovenske_hory/vysoke_tatry/akcie/zbojnicka/1.htm) ( next )
+
+**Október 2005 - Veľká studená dolina - Zbojníčka**
+
+Zostava: Dušan, Ivan
+
+Keďže tohtoročná nádherná jeseň nie a nie skončiť,vybrali sme sa opäť do Tatier,tentokrát na Zbojnícku chatu do Veľkej studenej doliny. Nemali sme až toľko dní na výlety ako naposledy na Térynke,ale aj dva dni sú dobré. Keďže som bol na Zbojníčke už od piatku večera (Dušan nemohol), stretnúť sme sa mali až pod nástupom na SV hrebeň vedúci na Vychodnú slávkovskú vežu. Z nej sme mali v pláne ísť buď vľavo a pokračovať Vareškovým hrebeňom na Slávkovský štít,alebo na veži odbočiť vpravo a pokračovať po hrebeni cez Bradavicu do Prielomu. Ako sa neskôr ukázalo,voľba Vareškového hr.bola správna,lebo v druhom prípade by sme museli byť v týchto krátkych jesenných dňoch asi Batmani aby sme to do tmy stihli.Ráno sme sa akosi nezosynchronyzovali a Duško si prišiel po mňa až na Zbojníčku,keďže moja raňajšia siesta trvala" trochu dlhšie". Nuž ale dá sa oželieť pohľad do slnkom zaliatej doliny s kávičkou v ruke. Nedá. Na hrebeň sme vykročili až okolo 9.30 čo je dosť neskoro,ale nikdy sme neboli z tých čo sa ráno vyžívajú v skorom vstávaní. Radšej vždy potiahneme večer:) Hrebeň sme si skutočne vychutnávali,rovnako nádherné výhľady smerom na Zbojníčku. Doslova sme sa zabávali. V hornej časti sme si úmyselne trochu sťažili výstup na V.Sávk.vežu. Bol z toho štvorkový stenový výstup. Pekný. Na vrchole sme si trochu oddýchli pri klobáse a zhodnotili situáciu. Bolo 12.00 čo bolo dosť na to pokračovať smerom na Bradavicu. Takže Vareškový hrebeň na Slávkovský štít. Pokračovali sme ďalej bez problémov v dosť ostrom tempe,tlačil nás čas. Hrebeň bol až prekvapivo dlhý,avšak smäd aký sme pociťovali až neprimerane veľký. Už sme sa naučili chodiť na celodenné túry s miimálnym množstvom vody. Až v pondelok som sa dozvedel,že hodnoty vlhkosti vzduchu sa v sobotu na Slovensku blížili k nule! Vpred nás hnala túžba po pive na Hrebienku.A tá teda bola! Nuž čas sa posunul a my sme šťastlivo stáli o 15.00 na vrchole Slávkovského štítu. Tam sme neunikli maďarským turistom,ktorí nás horlivo fotografovali...Čudné. No,poriadne sme sa upravili,zašnurovali a behom dole na Hrebienok. Tam sme rolovali už o 16.30,kde nás čakala naša tajná spojka Míša s čapovaným pivom na stole! A ešte jedno...O 17.30 sme vyrazili na Zbojníčku (Dušan už druhýkrát za deň),ale to už sa stmievalo. Dorazili sme o 19.30 za svetla čeloviek v úplnej tme. Všetci v preplnenej chate samozrejme už po večeri popíjali pivečko,tak sme sa k nim ochotne pridali. Veď som hovoril,že radšej potiahneme dlhšie večer....:)
+
+Nedela: to sme si spravili len krátky výlet na Svišťový štít. Cez Svištové sedlo,traverzom do žľabu,ďalej hore lámavou skalou I-II terénom,výlez hore za III. Ani sme si sedáky nestihli nasadiť a už sme sedeli na vrchole precitujúc dojmy s predchádzajúceho dňa. Pôvodný zámer (hlavný) bol prejsť zo Svišťového štítu po hrebeni na Divú vežu a cez Prielom dole. Únava zo sobotnajšej "tour de vareškáč" bola silnejšia ako naša chtivosť. No veď my si to s radosťou prídeme onedlho dokončiť...
+
+Ivan
+
+[<<<<<](nove_akcie_index.md)
